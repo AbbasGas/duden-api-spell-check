@@ -51,7 +51,7 @@ export const Header = () => {
           noWrap
           className={classes.toolbarTitle}
         >
-          Duden API Spell Check
+          Spell Check BAC-2023 GERMAN
         </Typography>
         <nav>
           <Tooltip
