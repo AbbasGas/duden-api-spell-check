@@ -63,7 +63,7 @@ export const Header = () => {
               color="inherit"
               aria-label={"Toggle light/dark theme"}
               className={classes.iconButton}
-              href="https://github.com/JoHoop/duden-api-spell-check"
+              href=""
               target="_blank"
               rel="noreferrer"
             >
