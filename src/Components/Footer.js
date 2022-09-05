@@ -19,7 +19,7 @@ export const Footer = () => {
       <footer className={classes.footer}>
         <Container maxWidth="md">
           <Typography variant="body1">
-            React Web App to check spelling of German text with Duden API.
+            BAC-2023 GERMAN.
           </Typography>
         </Container>
       </footer>
